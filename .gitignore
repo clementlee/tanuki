@@ -19,3 +19,9 @@ Cargo.lock
 
 # ignore vim
 *.swp
+
+# ignore testing
+playground/
+
+# good ol' OS X
+.DS_Store
